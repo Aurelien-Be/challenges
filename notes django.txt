@@ -1,9 +1,0 @@
-Django : 
-Fichiers qu'on peut editer : 
-seettings.py
-urls.py
-
-Run server =
-
-python manage.py runserver 
-python manage.py startapp nimportequelnom(comme challenges)
