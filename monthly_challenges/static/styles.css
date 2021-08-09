@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Roboto+Condensed:wght@400;700&display=swap');
+
+
+html {
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+body {
+    margin: 0;
+    background-color: rgb(31, 30, 30);
+}
